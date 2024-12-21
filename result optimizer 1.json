@@ -1,0 +1,40 @@
+{
+    "timestamp": "2024-12-20T19:21:19.090804",
+    "total_count": 37,
+    "color_distribution": {
+        "unknown": 8,
+        "yellow": 6,
+        "red": 5,
+        "green": 10,
+        "blue": 6,
+        "orange": 2
+    },
+    "spatial_statistics": {
+        "density": 0.0007913422876208401,
+        "average_spacing": 54780.15249739204,
+        "min_spacing": 52.61178575186362,
+        "max_spacing": 92635.23098691988,
+        "spacing_std": 32601.367046481508
+    },
+    "radius_statistics": {
+        "average_radius": 38.0,
+        "radius_std": 5.642502799098804,
+        "min_radius": 28.0,
+        "max_radius": 53.0,
+        "radius_variation": 0.148486915765758
+    },
+    "validation_results": {
+        "count_valid": true,
+        "radius_valid": false,
+        "spacing_valid": true,
+        "overlap_valid": true,
+        "warnings": [
+            " &M sizes detected"
+        ]
+    },
+    "confidence_metrics": {
+        "detection_confidence": 0.851513084234242,
+        "color_confidence": 0.7837837837837838,
+        "overall_confidence": 0.8176484340090129
+    }
+}
